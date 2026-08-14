@@ -45,11 +45,12 @@ enterprise-template/
 
 ## Quick Start
 
-1. Download or clone this repository
-2. Open `index.html` in your browser to preview the template
-3. Edit the HTML files to replace placeholder content with your own
-4. Customize colors in `assets/css/style.css` (see below)
-5. Upload all files to your web hosting
+1. Purchase the template via the PayPal link above
+2. Download and extract the ZIP file
+3. Open `index.html` in your browser to preview the template
+4. Edit the HTML files to replace placeholder content with your own
+5. Customize colors in `assets/css/style.css` (see below)
+6. Upload all files to your web hosting
 
 ## Customization Guide
 
