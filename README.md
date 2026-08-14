@@ -182,19 +182,27 @@ This template is licensed for commercial use. You may use it for personal and co
 
 ## How to Buy
 
-This template is available for purchase! To get the full source code with documentation:
+**Price: $15** (one-time payment, lifetime use)
+
+### Instant Purchase via PayPal
+
+Click the link below to pay $15 via PayPal:
+
+**[Click here to pay $15](https://paypal.me/huagprog/15)**
+
+After payment, email me at **1362490308@qq.com** with your PayPal transaction ID, and I'll send you the complete template files within 24 hours.
+
+### Alternative: Email Order
 
 1. Email me at: **1362490308@qq.com**
 2. Subject: `NexaPro Template Purchase`
-3. I'll send you the payment details (PayPal / other methods)
+3. I'll send you the payment details
 4. After payment, you'll receive the complete template files
-
-**Price: $15** (one-time payment, lifetime use)
 
 ## Support
 
 - **Live Demo**: [http://nexapro-template.surge.sh](http://nexapro-template.surge.sh)
-- **Buy**: Email 1362490308@qq.com
+- **Buy**: [PayPal $15](https://paypal.me/huagprog/15) or email 1362490308@qq.com
 - **Questions**: Open an issue on this repository
 
 ---
